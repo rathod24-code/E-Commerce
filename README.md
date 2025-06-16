@@ -18,24 +18,7 @@ This is a real-time e-commerce web application built using **React.js** and **Ja
 - ✈️ **Flight Management System**  
   A mock dashboard to manage and view flight details.
 
----
-
-## 📁 Project Structure
-
-ecommerce-app/
-├── src/
-│ ├── components/
-│ │ ├── ProductList.jsx
-│ │ ├── Booking.jsx
-│ │ ├── OrderTracker.jsx
-│ │ ├── Chatbot.jsx
-│ │ └── FlightManager.jsx
-│ ├── App.js
-│ └── index.js
-└── README.md
-
-
----
+----
 
 ## 🛠️ Tech Stack
 
