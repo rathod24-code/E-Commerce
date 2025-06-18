@@ -23,5 +23,6 @@ This is a real-time e-commerce web application built using **React.js** and **Ja
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, JavaScript, HTML, CSS
+- **State Management:** React Hooks (useState, useEffect)  
 - **Tools**: Git, VS Code, Node.js
 
