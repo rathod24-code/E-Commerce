@@ -6,7 +6,7 @@ import Chatbot from './components/Chatbot';
 import FlightManager from './components/FlightManager';
 
 const products = [
-  { id: 1, name: "Laptop", description: "Gaming laptop" },
+  { id: 1, name: "Laptop", description: "Coding laptop" },
   { id: 2, name: "Smartphone", description: "Flagship phone" },
 ];
 
